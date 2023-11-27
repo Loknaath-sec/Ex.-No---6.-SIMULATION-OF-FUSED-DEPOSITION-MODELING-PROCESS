@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+## DATE: 27/11/2023
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -16,14 +16,20 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
+![1](https://github.com/Loknaath-sec/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742558/b557b458-4dfd-451f-a90b-7f868ab9be4c)
+![2](https://github.com/Loknaath-sec/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742558/a463c310-c2c4-4150-bbfe-a13318724623)
+![3](https://github.com/Loknaath-sec/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742558/655c8a5b-1292-4e24-95a3-3d281233f05e)
+![4](https://github.com/Loknaath-sec/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742558/dc7685cf-a053-4904-ae3a-b197445cd42c)
+![5](https://github.com/Loknaath-sec/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742558/6168431f-0df5-4ee3-9b13-cb5a01ba30b6)
+![6](https://github.com/Loknaath-sec/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742558/49a985fb-22c7-4546-a802-356dd5acda41)
+![7](https://github.com/Loknaath-sec/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742558/59cfae39-7da6-4acb-b75e-f10512507b2d)
+![8](https://github.com/Loknaath-sec/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742558/9e0bbeff-8c1e-4632-91ab-187b0a981253)
+
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: P.LOKNAATH
+### Register Number: 23004546
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
