@@ -8,12 +8,12 @@
  System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
- STEP 1: Click on 'Base'. Base and Build Platform will be displayed on the left side of the screen.
- STEP 2: Click on 'Extruder' then extruder and extruder nozzle will be displayed.
- STEP 3: Click on 'Material Spool' then material spool will be shown.
- STEP 4: Click on 'Filament' then filament will be added.
- STEP 5: Click on 'Start Process' to begin the process.
- STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
+### STEP 1: Click on 'Base'. Base and Build Platform will be displayed on the left side of the screen.
+### STEP 2: Click on 'Extruder' then extruder and extruder nozzle will be displayed.
+### STEP 3: Click on 'Material Spool' then material spool will be shown.
+###  STEP 4: Click on 'Filament' then filament will be added.
+###  STEP 5: Click on 'Start Process' to begin the process.
+###  STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
 ![1](https://github.com/Loknaath-sec/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742558/b557b458-4dfd-451f-a90b-7f868ab9be4c)
